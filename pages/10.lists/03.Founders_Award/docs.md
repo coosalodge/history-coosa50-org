@@ -45,7 +45,7 @@ Founder's Award arrow ribbon, with a gold colored arrow suspended from a red rib
 * 1998 - Dan Watson, Mr. Dennis Quintavalle
 * 1999 - Dean Heston, Mr. Daniel Hodge
 
-## Coosa Lodge Recipients
+### Coosa Lodge Recipients
 
 * 2000 - David Self, Charlie Thomas, Dr. James Flatt, Mr. Tim Hall
 * 2001 - Chris Brightwell, Massey Griffin, Mr. Dale Abercrombie
