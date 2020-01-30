@@ -11,7 +11,7 @@ and co-founder Carroll A. Edson.
 The Award is a bronze medallion bearing the likenesses of E. Urner Goodman and cofounder Carroll A. Edson, with wooden base and brass plate suitable for engraving. Also available is a special 
 Founder's Award arrow ribbon, with a gold colored arrow suspended from a red ribbon. This award is presented annually.
 
-## Cherokee Lodge Recipients
+### Cherokee Lodge Recipients
 
 * ???? - Benji Thomas, Alan Camp, Zack Cross, Lon Moore
 * 1995 - Paul Colbert, Mr. Julian Simmons
@@ -19,7 +19,7 @@ Founder's Award arrow ribbon, with a gold colored arrow suspended from a red rib
 * 1998 - Jeremy Jackson, Kenneth Sawyer
 * 1999 - Christoper Thomas, Mr. Mark Hayes
 
-## Achunanchi Lodge Recipients
+### Achunanchi Lodge Recipients
 
 * 1990 - Langley Hamby
 * 1993 - Charles Canady, Ray Morris, Jr.
@@ -29,7 +29,7 @@ Founder's Award arrow ribbon, with a gold colored arrow suspended from a red rib
 * 1998 - J. Howard Cochran, Adam Howard
 * 1999 - Seth Hill, Mr. Joe Garrett
 
-## Kaskanampo Lodge Recipients
+### Kaskanampo Lodge Recipients
 
 * 1984 - Barry Oxley, Jeff Gothard
 * 1988 - Ray LeCroix
