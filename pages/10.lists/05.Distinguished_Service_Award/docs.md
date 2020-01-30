@@ -8,18 +8,18 @@ The Distinguished Service Award was created in 1940 to honor those who rendered 
 
 The award is a sterling silver arrowhead, bearing an arrow pointing upward and to the wearer’s right, suspended from a white neck-ribbon upon which are embroidered red arrows. A white square knot embroidered upon red cloth is also available. Presentation of the award is limited; nominations are open to both youth and adult.
 
-## Cherokee Lodge #50
+### Cherokee Lodge #50
 * 1981 - James E. Johnson
 * 1983 - Kenneth G. Ackerman
 
-## Kaskanampo Lodge #310
+### Kaskanampo Lodge #310
 * 1965 - Morgan W. Weed
 * 1969 - William C. Ingersoll
 
-## Coosa Lodge
+### Coosa Lodge
 * 2009 - Dr. James Flatt
 * 2012 - James Tarbox
 * 2015 - Mr. Richard Gregory ("Greg") Moore
 
-## Other Lodges
+### Other Lodges
 * 2012 - Mr. Keith Swedenburg (former staff adviser), as a member of Gamenowinink Lodge
