@@ -8,13 +8,19 @@ The Distinguished Service Award was created in 1940 to honor those who rendered 
 
 The award is a sterling silver arrowhead, bearing an arrow pointing upward and to the wearer’s right, suspended from a white neck-ribbon upon which are embroidered red arrows. A white square knot embroidered upon red cloth is also available. Presentation of the award is limited; nominations are open to both youth and adult.
 
-### 1965 - Morgan W. Weed, as a member of Kaskanampo Lodge #310
-
-### 1969 - William C. Ingersoll, as a member of Kaskanampo Lodge #310
+## Cherokee Lodge #50
 
 ### 1981 - James E. Johnson, as a member of Cherokee Lodge #50
 
 ### 1983 - Kenneth G. Ackerman, as a member of Cherokee Lodge #50
+
+## Kaskanampo Lodge #310
+
+### 1965 - Morgan W. Weed, as a member of Kaskanampo Lodge #310
+
+### 1969 - William C. Ingersoll, as a member of Kaskanampo Lodge #310
+
+## Coosa Lodge
 
 ### 2009 - Dr. James Flatt
 
