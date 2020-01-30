@@ -5,7 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Coosa Lodge Online Archive
+### Coosa Lodge History
 
 # Lists
 

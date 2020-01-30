@@ -5,8 +5,8 @@ taxonomy:
 child_type: docs
 ---
 
-### Coosa Lodge Online Archive
+### Coosa Lodge History
 
 # Welcome
 
-Welcome to the Coosa Lodge Online Archive. This website represents the collaborative effort of more than a dozen current and former members of Coosa Lodge and its legacy lodges.
+Welcome to the new Coosa Lodge history website. This website represents the collaborative effort of more than a dozen current and former members of Coosa Lodge and its legacy lodges.
