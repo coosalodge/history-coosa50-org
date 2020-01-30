@@ -10,17 +10,17 @@ For more information on OA High Adventure opportunities, visit [http://adventure
 
 The following Arrowmen have represented Coosa Lodge as participants in the OA High Adventure program:
 
-### Trail Crew (Philmont Scout Ranch)
+#### Trail Crew (Philmont Scout Ranch)
 * 2011 - JC Park, Matthew Swafford
 * 2019 - Kira Williams
 
-### Ocean Adventure (Florida Sea Base)
+#### Ocean Adventure (Florida Sea Base)
 * 2012 - Christopher Bright
 
-### Wilderness Voyage (Northern Tier)
+#### Wilderness Voyage (Northern Tier)
 * 2012 - Nathan Moore
 * 2013 - Nathan Moore
 * 2014 - Alexander East
 
-### Summit Experience (Summit Bechtel Reserve)
+#### Summit Experience (Summit Bechtel Reserve)
 * 2014 - Nathaniel Kelton
