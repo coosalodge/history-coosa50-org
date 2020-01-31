@@ -12,6 +12,8 @@ Recipients of the Vigil Honor are selected based on their dedication and continu
 
 The Vigil Honor Selection Committee operates as part of the Nominations and Recognitions Committee.
 
+![Coosa Lodge Vigil Honor Insignia](./vigil.png)
+
 Date       | Recipient        | Vigil Name | Translation
 :--------- | :--------------- | :--------- | :----------
 09/xx/1915 | E. Urner Goodman | Nuwingi    | The Willing
