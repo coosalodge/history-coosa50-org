@@ -34,7 +34,7 @@ Date       | Recipient        | Vigil Name | Translation
 2000 | Mr. Jackie Pettit | Amangi Klakaptonaganall | Large Amusing One
 2000 | Mr. Dan Strunk | Nuwingi Achewalogen Weuchsowagan | Willing Worker Who Has Knowledge
 2000 | Mr. Gary Wright | Wingolauchsik Meteu | Cheerful Medicine Man
-|||
+ ||| 
 2001 | Tim Burns | Achgeketum Takachsin Pa'an | Teacher of Leaders to Come
 2001 | Mark DeRamus | Tschitgussin Mawememen Nimat | Silent Gatherer of Brothers
 2001 | David Ferguson | Nosogamen Lungwamen | One Who Follows His Dreams
@@ -46,7 +46,7 @@ Date       | Recipient        | Vigil Name | Translation
 2001 | Mrs. Judi Knoop | Klampeechen Tangetto | Stillwater Little One
 2001 | Mr. John Pocus | Nachgundin Gischachgeniman | Agreeable Judge
 2001 | Mr. Tad Thomason | Allogagan Nischa Taga'wan | Servant of Two Houses
-|||
+ ||| 
 2002 | William Davis | Nagatamen Klamachpin | Reliable Quiet One
 2002 | Cory Phillips | Tekene Achpamsin | Forest Walker
 2002 | Justin Ruf | Achowalogen Tangetto Waskeu | Hard Worker Who is Small and Narrow
@@ -63,7 +63,7 @@ Date       | Recipient        | Vigil Name | Translation
 2002 | Mr. Richard Souder | Machelensin Allogagan | Proud Servant
 2002 | Mr. Delane Terrell | Wowoatom Gischihan Wulissowagan | Skillful Artist
 2002 | Mr. Chris Whitehead | Machelemuxit Tschitanessoagan | Honored One Who Has Authority
-|||
+ ||| 
 2003 | Daniel Berry | Wowoatam Alluns | Skillful Archer
 2003 | Robert Brown | Klamachpin Nachpikin Pemsit | Quite Nature Walker
 2003 | Blake Edwards | Wulelendamuwi Achipiquon | Joyful Musician
@@ -78,7 +78,7 @@ Date       | Recipient        | Vigil Name | Translation
 2003 | Mr. Ken Deason | Kichkican Woapalanne | Man Who Guides Eagles
 2003 | Mr. Larry Sitz | Gluxu Ktemaque | Laughing Beaver
 2003 | Mr. Terry Wagner | Achowalogen Najundam | Hard Worker Who Carries A Load
-|||
+ ||| 
 2004 | Wilson Griffith | Amangi Wachtey Gilkissin Kichkinet | Large Bellied Laughing Guide
 2004 | Nick Harper | Lilchpin Elangomat | Diligent Elangomat
 2004 | Joey Kiker | Amangi Allowat Wundaman Sakima | Large and Mighty Ceremony Chief
@@ -91,7 +91,7 @@ Date       | Recipient        | Vigil Name | Translation
 2004 | Mr. Doug Jackson | Welauchsit Lilenowagan Woapalanne | Organized Legal Eagle
 2004 | Mr. Tony Myers | Wulelendam Sachgagunummen Chesimus | Joyful Leader of Younger Brothers
 2004 | Mr. George Stanley | Awehhelleu Hakihet Wulalogewagan | Poultry Farmer Who Does Good Work
-|||
+ ||| 
 2005 | Matthew Hitt | Weuchsowagan Mechauwikenk | Knowledgeable Camper
 2005 | Will Jackson | Meechgalhukquot Gischiken | Red Headed Organizer
 2005 | John Meadows | Gunaquot Aptonen Wejjaweu | Tall Well Spoken Chief
@@ -112,7 +112,7 @@ Date       | Recipient        | Vigil Name | Translation
 2005 | Mr. David Schwaiger | Gokhos Petasummawan | Owl Who Brings Light
 2005 | Mr. Paul Schwaiger | Sisi'Lija Petasummawan | Buffalo Who Brings Light
 2005 | Mr. Roy Vincent | Tschutti Woapalame | Friend of Eagles
-|||
+ ||| 
 2006 | Chris Arnold | Nuwingi Kichkinet Allohakasin | Willing Guide Who Instructs
 2006 | Damon Ashley | Klamachpin Elauwit Gentgeen | Quiet Hunter Who Dances
 2006 | Nicholas Blevins | Wuhhala Netopalis | Defending Warrior
@@ -128,7 +128,7 @@ Date       | Recipient        | Vigil Name | Translation
 2006 | Mr. Bill McCoy | Achgeketum Nagatamen | Teacher Who Can Be Trusted
 2006 | Mr. Bernard Sanderson | Tuney Kichkinet Chesimus | Bearded Guide of Younger Brothers
 2006 | Mr. Tim Smalley | Nagatamen | Trusted One
-|||
+ ||| 
 2007 | Charles Backus | Papesu Peptukquekhikenk Gentgeen | Patient Hoop Dancer
 2007 | Logan Bridges | Nutiket Pochenikan | Guard of the Drum
 2007 | Logan Dawson | Klamachpin Aschowin Sachgagunummen | Quiet Swimmer Who Leads
@@ -149,7 +149,7 @@ Date       | Recipient        | Vigil Name | Translation
 2007 | Dr. Richard Russell | Nhakeuchsin Meteu Sachgagunummen | Respected Doctor Who Leads
 2007 | Hon. Malcolm Street | Achgegingewagan Gischachgeniman | Training Judge
 2007 | Mr. Eric Sullivan | Eschochwalan Topalowoagan | Helper of Scouts
-|||
+ ||| 
 2008 | Glenn Houston | Dachiqnoagan Memhallamund Wendamen | Patch Trading Fisherman
 2008 | Devan Beitel | Gintschimuin Gintschimuin | Beep Beep
 2008 | Andrew Dotson | Passitechin Kikewagan | Clumsy Healer
@@ -161,7 +161,7 @@ Date       | Recipient        | Vigil Name | Translation
 2008 | Mr. Ed O'Neal | Gunaxin Allowelendamoagan | Tall One Who Is Highly Esteemed
 2008 | Mr. Greg Crenshaw | Wtelgixin Gischihan | Worthy One Who Creates
 2008 | Mrs. Sheila Knight | Tgauchsin Anatschitan | Friendly One Who Cares
-|||
+ ||| 
 2009 | Nathan Bradbury | Gunaquot Lilchpin Allogagan | Tall Diligent Servant
 2009 | William Cole | Kwehihwikat Hitawke | Long Legged Dancer
 2009 | Richard Ethan Merrell | Aspitunk Sakima | Cheaha Chief
@@ -177,7 +177,7 @@ Date       | Recipient        | Vigil Name | Translation
 2009 | Mr. J. Michael Key | Ophukon Newichemekuna | White-haired Helper
 2009 | Mr. Abe Rummell | Kanchixin Kwenakw Sakima | Hidden Tall Chief
 2009 | Mrs. Lisa Sullivan | Elahtuniket Alepomi | Venturing Advisor
-|||
+ ||| 
 2010 | Chris Bright | Meechgalhukquot Wulatenamuwi Nimat | Red-haired cheerful brother
 2010 | Kyle Dotson | Nuwingi Mikemossit Kwsitao | Willing Worker Who Smiles
 2010 | Patrick Hayes | Tgauchsin Nimat | Good Natured Brother
@@ -192,7 +192,7 @@ Date       | Recipient        | Vigil Name | Translation
 2010 | Mr. Tim Rogers | Manitu Aney Kimahtk | He Who Builds Paths for Brothers
 2010 | Mr. Warren Glea Sarrell | Machelemuwi Nikanixink | Honorable one who leads
 2010 | Mr. Joe Turner | Kwishkwei Eschochwalan | Silent Helper
-|||
+ ||| 
 2011 | David Marsh | Hitavwnakwsu Yuchi Nikanixink | Talented Yuchi Leader
 2011 | Nathan Moore | Witshceman Pilhiksutin Minsi Meteu | Helpful Ceremony Team Medicine Man
 2011 | Will Reavis | Lilchpin Wehixenis Sakima Xahulamu | Willing Cook Chief Who Talks Loud
@@ -206,7 +206,7 @@ Date       | Recipient        | Vigil Name | Translation
 2011 | Mrs. Amanda Moore | Wichem Nenajungeshammen Salassett | Helping Horseback Rider Who Cooks
 2011 | Mr. Mike Ward | Allogagan Wimb | Servant Heart
 2011 | Mr. Kieth Wycoff | Welimkwesu Lileno Nkakewsewakan | Well Spoken Of Office Helper
-|||
+ ||| 
 2012 | Tyler Belk | Ahpikona Allogagan | Musical One Who Serves Many Roles
 2012 | Ben Crenshaw | Pohonasin Yuchi Sakima | Drumming Yuchi Chief
 2012 | Davis Faulkner | Tschitanitehen Atschimolsin Nimat | Persevering Converter of Brothers
@@ -221,7 +221,7 @@ Date       | Recipient        | Vigil Name | Translation
 2012 | Mrs. Yolanda Pleasant | Tospenaok Chesimus | Fox Who Inspires Many Youth
 2012 | Mr. Fred Roddam | Wetochwink Maweni Tepawtu | Father Who Gathers At A Fair Price
 2012 | Mr. Dan Trust | Lowaneu Gentgeen Netopalis | Northern Dancing Warrior
-|||
+ ||| 
 2013 | Dylan Clark | Maxkixekene Xalahputisikaon Sakima | Red Headed Web Chief
 2013 | Adam Davis | Togihillian Sachgagunmen | Rising Leader
 2013 | Forrest Evans | Chakahchu Kaskanampo Sakima | Frozen Kaskanampo Chief
@@ -238,7 +238,7 @@ Date       | Recipient        | Vigil Name | Translation
 2013 | Mrs. Theresa Read | Woapalanne Ajummen Hmalemake | Eagle Who Buys And Sells
 2013 | Mr. John Ryan | Nagatamen Allogagan Nikanixink | Trusted Servant Leader
 2013 | Mr. Melvin Walker | Nagatamen Allogagan Neliellataiik | Trustworthy Servant Of The Lord
-|||
+ ||| 
 2014 | Alex Brown | Tenduchen Wehwatewet | Fire Building Teacher
 2014 | Nicholas Crenshaw | Takachsin Gischeleman | Leader Who Creates With His Mind
 2014 | Alex East | Wundchenneu Ohchu Gokhos Kaxkeni | Western Mountain Owl Who Breaks
@@ -254,7 +254,7 @@ Date       | Recipient        | Vigil Name | Translation
 2014 | Mr. Austin Landry | Maike Takachsin | Camping Leader
 2014 | Mrs. Lu Ann Poniatowski | Poniatowski Tangelensui Pupukwesh | Humble Bob White
 2014 | Mr. Micheal Findlay | Muxulhama Auwen Wiechenin | Sailor Who Cooks
-|||
+ ||| 
 2015 | Daniel Beitel | Lilchpin Witscheman | Diligent Helper
 2015 | John Henry Glenn | Nipsu Elangomat Kenthu Hukweyunk | Enthusiastic Friend Who Soars High
 2015 | Jameson Houston | Allogagan Nehellatank | Servant of the Lord
@@ -269,7 +269,7 @@ Date       | Recipient        | Vigil Name | Translation
 2015 | Mr. Ken Dunn | Wingolauchsik Nutiket Shinkekink | Cheerful Guardian Of The Forest
 2015 | Mr. Bud Moncrief | Sapeleantpe Ehamet Wehwatewet | Bald Headed Fisherman Teacher
 2015 | Mr. Greg Sweatmon | Tipas Kimtunhe | Chicken Whisperer
-|||
+ ||| 
 2016 | Logan Dolloff | Alukakan Ntalemahe Pakenchu | Servant Who Throws The Disc
 2016 | Ryan Hall | Welankunsu Nuwingi Nutiket | Friendly Willing Guard
 2016 | Zachary Johnson | Sakima Gischileu | Chief Who Has Proven True
@@ -280,7 +280,7 @@ Date       | Recipient        | Vigil Name | Translation
 2016 | Mr. John Kelton | Mweshikakewoo Manitu Nikanixink | Artist Who Builds Leaders
 2016 | Mr. Ron Moore | Wulilissowagan Nenustao Nikanixink | Compassionate Patient Leader
 2016 | Mrs. Cindy Perry | Wingolauchsik Machque Witscheman | Cheerful Bear Who is Helpful
-|||
+ ||| 
 2017 | John Bateman | Wingolauchsik Tahkoptu Wehwatewet | Cheerful Knot Teacher
 2017 | Wyatt Dunn | Ilau Nochnutemaliuwet Gigischquik | Brave Keeper Of History
 2017 | Micheal Fuell | Nechochwen Meteu Wahhellemat | Lone Medicine Man From Afar
@@ -299,7 +299,7 @@ Date       | Recipient        | Vigil Name | Translation
 2017 | Mr. Joe Pate | Amangiechsin Segachtek Woakus | Loud Enthusiastic Fox
 2017 | Mr. Aaron Tews | Chans Gihim Elipsit | Elder Brother Who Encourages Units
 2017 | Mr. Harold Young | Motit Machque Num Kshaxen Uteney | Little Bear From The Windy City
-|||
+ ||| 
 2018 | Aaron Black | Nuwingi Nimat Ehahpikwes | Willing Brother Who Plays Tuba
 2018 | Trenten Charlton | Wulelendam Winkeohkwet Ehahpikwes | Joyous Lion Who Plays The Horn
 2018 | Cade Hamm | Matschiton Nimat Machque Sakima | Mischievous Brother Bear Chief
@@ -316,7 +316,7 @@ Date       | Recipient        | Vigil Name | Translation
 2018 | Mr. Hal Songer | Lehelutek Wehixenis Watun Ahi Keku | Iron Chef Who Knows Many Things
 2018 | Mr. Donnie Strain | Temakelensu Alukakan Aiham  | Humble Servant Golden Eagle
 2018 | Mr. David Tindall | Nihillatamen Tekene | Master Of The Woods
-|||
+ ||| 
 2019 | John Dodd Beck | Allogagan Wulaque | Servant of the Past
 2019 | Evan Dolloff | Wulilisseu Allogagan Takachsin | Kind-Hearted Servant Who Leads
 2019 | Paul Glenn | Klamachpin Meteu Pennauwelendam | Quiet Medicine Man Who Thinks
