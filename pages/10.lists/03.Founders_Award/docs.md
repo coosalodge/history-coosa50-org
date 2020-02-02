@@ -67,4 +67,4 @@ Founder's Award arrow ribbon, with a gold colored arrow suspended from a red rib
 * 2017 - Noah Reed, Mr. Mickey Bobo
 * 2018 - Colin Giles, Dr. Dan Belk
 * 2019 - Nicholas Crenshaw, Mr. JT Dabs, III
-* 2020 - TBA
+* 2020 - John Henry Glenn, Mr. Chris Arnold
