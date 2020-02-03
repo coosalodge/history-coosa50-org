@@ -13,7 +13,7 @@ Founder's Award arrow ribbon, with a gold colored arrow suspended from a red rib
 
 ### Cherokee Lodge Recipients
 
-* ???? - Benji Thomas, Alan Camp, Zack Cross, Lon Moore
+* ???? - Benjy Thomas, Alan Camp, Zack Cross, Lon Moore
 * 1995 - Paul Colbert, Mr. Julian Simmons
 * 1997 - Bobby Sawyer, Bob Thomas
 * 1998 - Jeremy Jackson, Kenneth Sawyer
