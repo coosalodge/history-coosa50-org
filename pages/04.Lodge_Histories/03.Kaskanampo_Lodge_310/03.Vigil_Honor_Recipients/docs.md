@@ -1,8 +1,25 @@
 ---
-title: Kaskanampo Lodge #310
+title: Vigil Honor Recipients
 taxonomy:
     category: docs
 ---
+
+Alertness to the needs of others is the mark of the Vigil Honor. It calls for an individual with an unusual awareness of the possibilities within each situation.
+
+The Vigil Honor is the highest honor that the Order of the Arrow can bestow upon its members for service to lodge, council, and Scouting. Membership cannot be won by a person's conscious endeavors.
+
+The Vigil Honor is a high mark of distinction and recognition reserved for those Arrowmen who, by reason of exceptional service, personal effort, and unselfish interest, have made distinguished contributions beyond the immediate responsibilities of their position of office to one or more of the following:
+
+* Lodge
+* Order of the Arrow
+* Scouting community
+* Scout Camp
+
+Under no circumstances should tenure in Scouting or the Order of the Arrow be considered as reason enough for a Vigil Honor recommendation.
+
+Any member of the Order of the Arrow registered in Scouting and in good standing in a regularly chartered lodge is eligible for recommendation to the National Order of the Arrow Committee for elevation to the Vigil Honor provided that, at the time of the recommendation, the individual has been a Brotherhood member for a minimum of two years. A lodge may nominate a maximum of two percent of their registered Arrowmen once a year, through the Vigil Honor petition. At least 50 percent of all nominated must be under 21 at the time of nomination.
+
+(Text copied from [https://oa-bsa.org/program/awards/vigil-honor](https://oa-bsa.org/program/awards/vigil-honor).)
 
 The following Arrowmen were recognized with the Vigil Honor by Kaskanampo Lodge #310.
 
@@ -238,4 +255,3 @@ Date | Recipient | Vigil Name | Translation
 10/18/1999 | Brian Merry | Witatschimolsin Wimachtendienk | Brotherly Companion
 10/18/1999 | Glenn Moore | Atenkpatton Gachpallin | Fireman Lifesaver
 10/18/1999 | Justin Munday | Klamachpin | Quiet One
-

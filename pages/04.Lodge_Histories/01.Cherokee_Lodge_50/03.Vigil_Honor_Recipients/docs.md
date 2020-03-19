@@ -1,5 +1,5 @@
 ---
-title: Cherokee Lodge #50
+title: Vigil Honor Recipients
 taxonomy:
     category: docs
 ---

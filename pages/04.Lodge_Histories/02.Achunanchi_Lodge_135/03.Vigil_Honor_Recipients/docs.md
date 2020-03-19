@@ -1,12 +1,27 @@
 ---
-title: Achunanchi Lodge #135
+title: Vigil Honor Recipients
 taxonomy:
     category: docs
 ---
 
+Alertness to the needs of others is the mark of the Vigil Honor. It calls for an individual with an unusual awareness of the possibilities within each situation.
+
+The Vigil Honor is the highest honor that the Order of the Arrow can bestow upon its members for service to lodge, council, and Scouting. Membership cannot be won by a person's conscious endeavors.
+
+The Vigil Honor is a high mark of distinction and recognition reserved for those Arrowmen who, by reason of exceptional service, personal effort, and unselfish interest, have made distinguished contributions beyond the immediate responsibilities of their position of office to one or more of the following:
+
+* Lodge
+* Order of the Arrow
+* Scouting community
+* Scout Camp
+
+Under no circumstances should tenure in Scouting or the Order of the Arrow be considered as reason enough for a Vigil Honor recommendation.
+
+Any member of the Order of the Arrow registered in Scouting and in good standing in a regularly chartered lodge is eligible for recommendation to the National Order of the Arrow Committee for elevation to the Vigil Honor provided that, at the time of the recommendation, the individual has been a Brotherhood member for a minimum of two years. A lodge may nominate a maximum of two percent of their registered Arrowmen once a year, through the Vigil Honor petition. At least 50 percent of all nominated must be under 21 at the time of nomination.
+
+(Text copied from [https://oa-bsa.org/program/awards/vigil-honor](https://oa-bsa.org/program/awards/vigil-honor).)
+
 The following Arrowmen were recognized with the Vigil Honor by Achunanchi Lodge #135.
-
-
 
 Date | Recipient | Vigil Name | Translation
 ---: | :-------- | :--------- | :----------
@@ -20,7 +35,7 @@ Date | Recipient | Vigil Name | Translation
 7/19/1958 | Philip Vaughan |  | Flint Youth
 11/26/1960 | Walter Cash |  | The Brave Warrior
 11/26/1960 | James Sloan |  | The Friendly One
-12/9/1961 | Brad Camp |  | 
+12/9/1961 | Brad Camp |  |
 1/22/1962 | Bruce Mainland | Takachsin | Leader
 8/11/1962 | Mickey Kroelinger |  | One Who Delivers
 8/2/1963 | James Larkin |  | Great Climber
